@@ -108,7 +108,7 @@ The package including the following components:
    <b>C. Rooting the tree according to an input outgroup: OutgroupRooting.pl</b>
 
    The script takes a list of taxa, and tries to find the best matching monophyletic clade as the outgroup, 
-   evantually roots the tree in the middle of the edge that connects the outgroup and the rest.
+   eventually roots the tree in the middle of the edge that connects the outgroup and the rest.
    
    Usage: OutgroupRooting.pl -i input_tree -l input_taxa -o output_tree
    
