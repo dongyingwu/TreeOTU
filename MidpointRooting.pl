@@ -184,7 +184,9 @@ $class->root_to_nodeID($node1);
 return 1;
 }
 
-$class->root_to_nodeID($node1,$node2);
+##$class->root_to_nodeID($node1,$node2); replaced by the following line
+$class->root_mid_between_nodes($node1,$node2);
+
 
 return 1;
 } 
